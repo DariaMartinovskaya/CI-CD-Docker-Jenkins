@@ -12,9 +12,7 @@ Docker version 24.0.7, build afdd53b
 #### 4. Create "api" folder in the Project's folder
 
 #### 5. Create docker-compose.yml file in the Project's folder
-Docker-compose.yml file includes instructions for docker images building. 
-
-Can be wrote in any text editor, for example, Visual Studio Code.
+Docker-compose.yml file includes instructions for docker images building. Can be written in any text editor, for example, Visual Studio Code.
 <div style="display:flex;">
-<img src="Screens/docker-compose_yml.jpeg">
+<img src="Screens/docker-compose-yml.jpg">
 </div>
