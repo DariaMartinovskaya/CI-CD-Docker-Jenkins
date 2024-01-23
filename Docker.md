@@ -15,3 +15,6 @@ Docker version 24.0.7, build afdd53b
 Docker-compose.yml file includes instructions for docker images building. 
 
 Can be wrote in any text editor, for example, Visual Studio Code.
+<div style="display:flex;">
+<img src="Screens/docker-compose_yml.jpeg">
+</div>
