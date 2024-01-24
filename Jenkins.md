@@ -146,7 +146,7 @@ stage('build') {
 
 => Fill in "python3 new_1.py" into the "Shell Script" Line
 
-=> CLick the "Generate Pipeline Script" Button
+=> Click the "Generate Pipeline Script" Button
 
 => Copy the script generated and paste it into the script
 
