@@ -170,10 +170,8 @@ apt-get install python3
 Y
 ```
 
-
-
-#### 15. Select "git: Git" from the "Sample Step" dropdown list
-#### 16. Paste the URL copied from the gitHub project's repository to the "Repository URL" line
-#### 17. Change Branch from "master" to "main"
-#### 18. CLick the "Generate Pipeline Script"
-
+#### 27.Click the [Build now] Button in Jenkins
+Everything works.
+<div style="display:flex;">
+<img src="Screens/Build.jpg">
+</div>
