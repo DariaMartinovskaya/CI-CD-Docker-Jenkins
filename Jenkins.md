@@ -80,4 +80,7 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 <img src="Screens/Jenkins_URL.jpg">
 </div>
 
-#### 9. 
+#### 9. Click the [Start using Jenkins] Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_Start.jpg">
+</div>
