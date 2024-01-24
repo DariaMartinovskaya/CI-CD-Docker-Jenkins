@@ -178,5 +178,5 @@ Y
 #### 27. Click the [Build now] Button in Jenkins
 Everything works.
 <div style="display:flex;">
-<img src="Screens/Build.jpg">
+<img src="Screens/Build1.jpg">
 </div>
