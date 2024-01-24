@@ -69,3 +69,15 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 <div style="display:flex;">
 <img src="Screens/Jenkins_Plugins.jpg">
 </div>
+
+#### 7. Fill in all fields to create an Admin User and click the [Save and Continue] Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_User_Creator.jpg">
+</div>
+
+#### 8. Click the [Save and Finish] Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_URL.jpg">
+</div>
+
+#### 9. 
