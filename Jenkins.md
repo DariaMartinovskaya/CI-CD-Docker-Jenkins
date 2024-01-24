@@ -103,33 +103,74 @@ return result
 <img src="Screens/Jenkins_item.jpg">
 </div>
 
-#### 14. Select "Hello World" template and click the "Pipeline Syntax" link
+#### 14. Select "Hello World" template and click the "Pipeline Syntax" link to change the syntax
 <div style="display:flex;">
 <img src="Screens/Jenkins_Syntax.jpg">
 </div>
 
-#### 15. Select "checkout: Check out from version control" from the "Sample Step" dropdown list
+#### 15. Select "checkout: Check out from version control" from the "Sample Step" dropdown list to add checking git access
 <div style="display:flex;">
 <img src="Screens/Jenkins_Step1.jpg">
 </div>
 
-#### 16. Change Branch from "master" to "main"
-#### 17. CLick the "Generate Pipeline Script" Button
+#### 16. Select "Git" from the "SCM" dropdown list
+#### 17. Paste the URL copied from the gitHub project's repository to the "Repository URL" line to copy git repository to Jenkins
+#### 18. Change Branch from "master" to "main"
+#### 19. CLick the "Generate Pipeline Script" Button
 <div style="display:flex;">
 <img src="Screens/Jenkins_Step1.1.jpg">
 </div>
 
-#### 18. Copy the script generated and paste it instead of 'echo "Hello World"' in the script
-#### 19. Change stage from 'Hello' to 'checkout'
-#### 20. Click the [Save] Button
+#### 20. Copy the script generated and paste it instead of 'echo "Hello World"' in the script
+#### 21. Change stage name from 'Hello' to 'checkout'
+#### 22. Click the [Apply] and the [Save] Buttons
 <div style="display:flex;">
 <img src="Screens/Jenkins_Script.jpg">
 </div>
 
-#### 21. Click the [Build now] Button
+#### 23. Click the [Build now] Button
 <div style="display:flex;">
 <img src="Screens/Project1.jpg">
 </div>
+
+#### 24. Amend the pipeline script to run .sh as follows
+```
+stage('build') {
+            steps {
+               sh 'python3 new_1.py'
+                }
+```
+=> Click the "Pipeline Syntax" link to change the syntax 
+=> Select "sh: Shell script" from the "Sample Step" dropdown list 
+=> Fill in "python3 new_1.py" into the "Shell Script" Line
+=> CLick the "Generate Pipeline Script" Button
+=> Copy the script generated and paste it into the script
+=> Click the [Apply] and the [Save] Buttons
+
+#### 25.Click the [Build now] Button
+Error recieved as no python is installed in Docker container:
+<div style="display:flex;">
+<img src="Screens/Error.jpg">
+</div>
+
+#### 26. Run the following commands in terminal to install python in the container
+To open the container: 
+```
+docker exec -it -u 0 09657c0a327e /bin/bash
+```
+To update package manager:
+```
+apt-get update
+```
+To install python:
+```
+apt-get install python3
+```
+```
+Y
+```
+
+
 
 #### 15. Select "git: Git" from the "Sample Step" dropdown list
 #### 16. Paste the URL copied from the gitHub project's repository to the "Repository URL" line
