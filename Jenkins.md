@@ -107,3 +107,22 @@ return result
 <div style="display:flex;">
 <img src="Screens/Jenkins_Syntax.jpg">
 </div>
+
+#### 15. Select "checkout: Check out from version control" from the "Sample Step" dropdown list
+<div style="display:flex;">
+<img src="Screens/Jenkins_Step1.jpg">
+</div>
+
+#### 16. Change Branch from "master" to "main"
+#### 17. CLick the "Generate Pipeline Script" Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_Step1.1.jpg">
+</div>
+
+#### 18. Copy the script generated 
+
+#### 15. Select "git: Git" from the "Sample Step" dropdown list
+#### 16. Paste the URL copied from the gitHub project's repository to the "Repository URL" line
+#### 17. Change Branch from "master" to "main"
+#### 18. CLick the "Generate Pipeline Script"
+
