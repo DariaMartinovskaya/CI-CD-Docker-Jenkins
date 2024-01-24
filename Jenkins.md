@@ -84,3 +84,26 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 <div style="display:flex;">
 <img src="Screens/Jenkins_Start.jpg">
 </div>
+
+#### 10. Add .py file to the project's repository at gitHub
+.py file should include the following code:
+```
+print("Hello, Jenkins!!!!!!")
+
+def sum(x,y)
+result = x+y
+print(result)
+return result
+```
+
+#### 11. Create item with "new1" item name at Jenkins, 
+#### 12. Click the [Pipeline] Button 
+#### 13. Click the [OK] Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_item.jpg">
+</div>
+
+#### 14. Select "Hello World" template and click the "Pipeline Syntax" link
+<div style="display:flex;">
+<img src="Screens/Jenkins_Syntax.jpg">
+</div>
