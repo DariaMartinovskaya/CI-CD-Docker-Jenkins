@@ -141,10 +141,15 @@ stage('build') {
                 }
 ```
 => Click the "Pipeline Syntax" link to change the syntax 
+
 => Select "sh: Shell script" from the "Sample Step" dropdown list 
+
 => Fill in "python3 new_1.py" into the "Shell Script" Line
+
 => CLick the "Generate Pipeline Script" Button
+
 => Copy the script generated and paste it into the script
+
 => Click the [Apply] and the [Save] Buttons
 
 #### 25.Click the [Build now] Button
