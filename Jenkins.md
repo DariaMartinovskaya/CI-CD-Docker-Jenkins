@@ -119,7 +119,17 @@ return result
 <img src="Screens/Jenkins_Step1.1.jpg">
 </div>
 
-#### 18. Copy the script generated 
+#### 18. Copy the script generated and paste it instead of 'echo "Hello World"' in the script
+#### 19. Change stage from 'Hello' to 'checkout'
+#### 20. Click the [Save] Button
+<div style="display:flex;">
+<img src="Screens/Jenkins_Script.jpg">
+</div>
+
+#### 21. Click the [Build now] Button
+<div style="display:flex;">
+<img src="Screens/Project1.jpg">
+</div>
 
 #### 15. Select "git: Git" from the "Sample Step" dropdown list
 #### 16. Paste the URL copied from the gitHub project's repository to the "Repository URL" line
