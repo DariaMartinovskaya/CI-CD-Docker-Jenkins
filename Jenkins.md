@@ -152,7 +152,7 @@ stage('build') {
 
 => Click the [Apply] and the [Save] Buttons
 
-#### 25.Click the [Build now] Button
+#### 25. Click the [Build now] Button
 Error recieved as no python is installed in Docker container:
 <div style="display:flex;">
 <img src="Screens/Error.jpg">
@@ -175,7 +175,7 @@ apt-get install python3
 Y
 ```
 
-#### 27.Click the [Build now] Button in Jenkins
+#### 27. Click the [Build now] Button in Jenkins
 Everything works.
 <div style="display:flex;">
 <img src="Screens/Build.jpg">
