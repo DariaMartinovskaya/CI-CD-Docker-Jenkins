@@ -116,7 +116,7 @@ return result
 #### 16. Select "Git" from the "SCM" dropdown list
 #### 17. Paste the URL copied from the gitHub project's repository to the "Repository URL" line to copy git repository to Jenkins
 #### 18. Change Branch from "master" to "main"
-#### 19. CLick the "Generate Pipeline Script" Button
+#### 19. Click the "Generate Pipeline Script" Button
 <div style="display:flex;">
 <img src="Screens/Jenkins_Step1.1.jpg">
 </div>
