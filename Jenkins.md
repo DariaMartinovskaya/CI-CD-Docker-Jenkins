@@ -1,6 +1,6 @@
 ## Jenkins
 
-#### 1. Open terminal and Run the following command
+#### 1. Open terminal and run the following command
 ```
 dariamartinovskaya@MacBook-Air-Daria ~ %  docker run -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts 
 09657c0a327eff7a37857255d09297ace5696d534a3c535a019a6e64b13c4ec1
@@ -17,7 +17,7 @@ Here we see the started Jenkins page:
 <img src="Screens/Jenkins_Login.jpg">
 </div>
 
-#### 4. To unlock Jenkins run DOCKER LOGS 'CONTAIONER ID' command in terminal
+#### 4. Run DOCKER LOGS 'CONTAIONER ID' command in terminal to find a password required to unlock Jenkins 
 ```
 dariamartinovskaya@MacBook-Air-Daria ~ % docker logs 09657c0a327e
 Running from: /usr/share/jenkins/jenkins.war
