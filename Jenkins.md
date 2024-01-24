@@ -133,7 +133,7 @@ return result
 <img src="Screens/Project1.jpg">
 </div>
 
-#### 24. Amend the pipeline script to run .sh as follows
+#### 24. Amend the pipeline script to run in Shell as follows
 ```
 stage('build') {
             steps {
