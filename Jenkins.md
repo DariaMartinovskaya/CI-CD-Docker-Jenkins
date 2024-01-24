@@ -17,7 +17,7 @@ Here we see the started Jenkins page:
 <img src="Screens/Jenkins_Login.jpg">
 </div>
 
-#### 4. Run DOCKER LOGS 'CONTAIONER ID' command in terminal to find a password required to unlock Jenkins 
+#### 4. Run DOCKER LOGS 'CONTAINER ID' command in terminal to find a password required to unlock Jenkins 
 ```
 dariamartinovskaya@MacBook-Air-Daria ~ % docker logs 09657c0a327e
 Running from: /usr/share/jenkins/jenkins.war
