@@ -198,6 +198,9 @@ This option works as follows: when some other projects finish building, a new bu
 Note:.py file "new2.py" with the code was previously added into the repository.
 #### 11. Click the [Apply] and the [Save] Buttons
 #### 12. Click the [Build now] Button
+Everything works.
 <div style="display:flex;">
 <img src="Screens/Jenkins_Project2.jpg">
 </div>
+
+#### 13. Link to screen recording of Projects 1 and 2 building: https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Screens/Jenkins_Projects_1_and_2_building.mov
