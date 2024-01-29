@@ -199,6 +199,8 @@ Note:.py file "new2.py" with the code was previously added into the repository.
 #### 11. Click the [Apply] and the [Save] Buttons
 #### 12. Click the [Build now] Button
 Everything works.
+
+Console output:
 <div style="display:flex;">
 <img src="Screens/Jenkins_Project2.jpg">
 </div>
