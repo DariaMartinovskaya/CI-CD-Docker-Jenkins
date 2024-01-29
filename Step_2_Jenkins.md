@@ -203,4 +203,4 @@ Everything works.
 <img src="Screens/Jenkins_Project2.jpg">
 </div>
 
-#### 13. Link to screen recording of Projects 1 and 2 building: https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Screens/Jenkins_Projects_1_and_2_building.mov
+#### 13. Link to screen recording of Projects 1 and 2 building: https://drive.google.com/file/d/14qSI6EM_U03l-d8wGXCQjOZCRuP-dHQd/view?usp=sharing
