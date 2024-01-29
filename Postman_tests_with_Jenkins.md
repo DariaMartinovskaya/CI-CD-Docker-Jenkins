@@ -12,6 +12,9 @@ To install Newman, run the following commands in the terminal:
 ```
 apt  install -y npm
 ```
+```
+npm install -g newman
+```
 #### 1. Create item with "Postman_tests" item name at Jenkins
 
 
@@ -38,6 +41,16 @@ This option works as follows: when some other projects finish building, a new bu
 #### 10. Paste "newman run Postman_collection.json" into the "Command" window
 
 Note: Postman_collection.json file was previously exported into the repository from Postman.
+
+#### 11. Click the [Apply] and the [Save] Buttons
+
+#### 12. Click the [Build now] Button
+Tests are run. 
+Console output:
+
+
+#### 13. Link to screen recording of Postman tests running: 
+
 
 #### 11. Click the [Apply] and the [Save] Buttons
 
