@@ -45,8 +45,3 @@ Note: Postman_collection.json file was previously exported into the repository f
 #### 11. Click the [Apply] and the [Save] Buttons
 
 #### 12. Click the [Build now] Button
-Tests are run. 
-Console output:
-
-
-#### 13. Link to screen recording of Postman tests running: 
