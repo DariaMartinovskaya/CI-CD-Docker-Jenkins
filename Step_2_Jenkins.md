@@ -96,7 +96,7 @@ print(result)
 return result
 ```
 
-#### 11. Create item with "new1" item name at Jenkins, 
+#### 11. Create item with "new1" item name at Jenkins
 #### 12. Click the [Pipeline] Button 
 #### 13. Click the [OK] Button
 <div style="display:flex;">
