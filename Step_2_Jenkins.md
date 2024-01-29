@@ -180,3 +180,20 @@ Everything works.
 <div style="display:flex;">
 <img src="Screens/Build1.jpg">
 </div>
+
+## Build after other projects are built
+
+#### 1. Create item with "Project_2" item name at Jenkins
+#### 2. Click the [Freestyle project] Button 
+#### 3. Click the [OK] Button
+#### 4. Click "Git" Radiobutton
+#### 5. Paste the URL copied from the gitHub second project's repository to the "Repository URL" line 
+URL of the second project: https://github.com/DariaMartinovskaya/Project2.git
+#### 6. Change Branch from "master" to "main"
+#### 7. Click "Build after other projects are built".
+This option works as follows: when some other projects finish building, a new build is scheduled for this project.
+#### 8. Past "Project_1" to the "Project to watch" line
+#### 9. Select "Execute shell" from the "Build Steps" dropdown list
+#### 10. Paste "python3 new1.py" into the "Command" window
+#### 11. Click the [Apply] and the [Save] Buttons
+#### 12. Click the [Build now] Button
