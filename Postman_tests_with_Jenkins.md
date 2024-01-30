@@ -22,7 +22,7 @@ npm install -g newman
 
 #### 3. Click the [OK] Button
 
-#### 4. Click "Git" Radiobutton
+#### 4. Click the "Git" Radiobutton
 
 #### 5. Paste the URL copied from the gitHub project's repository to the "Repository URL" line
 
