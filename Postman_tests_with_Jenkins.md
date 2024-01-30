@@ -113,3 +113,4 @@ Postman_HW_1
 └────────────────────────────────────────────────────────────────────┘
 Finished: SUCCESS
 ```
+#### 13. Link to screen recording of Postman tests running: https://drive.google.com/file/d/1gRFwmx_Oup1Vi1T2RsQ3Pd-KQrySo91I/view?usp=sharing
