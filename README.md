@@ -11,7 +11,7 @@ Docker is a platform for running applications in an isolated environment called 
 
 ## Here are results of using Docker:
 
-How to configure Docker and build a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Docker.md">here</a>.
+How I configured Docker and built a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Docker.md">here</a>.
 
 # Jenkins
 
@@ -21,6 +21,6 @@ The difference between Docker and Jenkins: Jenkins is focused on automating and 
 
 ## Here are results of using Jenkins:
 
-How to configure Jenkins and build and run a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Jenkins.md">here</a>, results are recorded <a href="https://drive.google.com/file/d/1LvUxlKf24niCvR122s5SWmqK1NSoNgny/view">on this video screen</a>.
+How I configured Jenkins and built and run a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Jenkins.md">here</a>, results are recorded <a href="https://drive.google.com/file/d/1LvUxlKf24niCvR122s5SWmqK1NSoNgny/view">on this video screen</a>.
 
 <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Postman_tests_with_Jenkins.md">Here</a> is a description of how I used Jenkins to run Postman tests. Results are recorded <a href="https://drive.google.com/file/d/1gRFwmx_Oup1Vi1T2RsQ3Pd-KQrySo91I/view">on this video screen</a>.
