@@ -10,10 +10,10 @@ Fiddler is a cross-platform proxy server app for HTTP debugging. It allows users
 
 ## Here are results of using Docker:
 
-How to build a project in Docker is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Docker.md">here</a>.
+How to configure Docker build a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Docker.md">here</a>.
 
 # Jenkins
 
 ## Here are results of using Jenkins:
 
-How to build and run a project in Jenkins is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Jenkins.md">here</a>, results are recorded <a href="https://drive.google.com/file/d/1LvUxlKf24niCvR122s5SWmqK1NSoNgny/view">here</a>.
+How to configure Jenkins and build and run a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Jenkins.md">here</a>, results are recorded <a href="https://drive.google.com/file/d/1LvUxlKf24niCvR122s5SWmqK1NSoNgny/view">here</a>.
