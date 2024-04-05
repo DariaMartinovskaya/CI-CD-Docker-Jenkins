@@ -23,4 +23,4 @@ The difference between Docker and Jenkins: Jenkins is focused on automating and 
 
 How I configured Jenkins and built and run a project is described <a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Jenkins.md">here</a>, results are recorded <a href="https://drive.google.com/file/d/1LvUxlKf24niCvR122s5SWmqK1NSoNgny/view">on this video screen</a>.
 
-<a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Postman_tests_with_Jenkins.md">Here</a> is a description of how I used Jenkins to run Postman tests. Results are recorded <a href="https://drive.google.com/file/d/1gRFwmx_Oup1Vi1T2RsQ3Pd-KQrySo91I/view">on this video screen</a>.
+<a href="https://github.com/DariaMartinovskaya/CI-CD-Docker-Jenkins/blob/main/Postman_tests_with_Jenkins.md">Here</a> is a description of how I used Jenkins to run Postman tests, results are also recorded <a href="https://drive.google.com/file/d/1gRFwmx_Oup1Vi1T2RsQ3Pd-KQrySo91I/view">on this video screen</a>.
